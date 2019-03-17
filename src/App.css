@@ -1,0 +1,44 @@
+.label {
+  font-weight: bold;
+}
+
+.transactionDetails {
+  background-color: #EEE;
+  border: 1px solid black;
+  overflow: auto;
+  display: block;
+  padding: 4px;
+}
+
+.transaction {
+  border-bottom: 1px solid grey;
+  margin-bottom: 1em;
+}
+
+.outAddress {
+  cursor: pointer;
+}
+
+.addressInput {
+  width: 30em;
+}
+
+.inputs {
+  float: left;
+}
+
+.outputs {
+  float: right;
+}
+
+.change {
+  margin-bottom: 1em;
+}
+
+.time {
+  text-align: right;
+}
+
+table {
+  width: 100%;
+}
