@@ -1,5 +1,5 @@
 # Blockchain.info Project
-![screenshot](https://raw.githubusercontent.com/stephenmac7/bc-projet/screenshot.png)
+![screenshot](https://github.com/stephenmac7/bc-project/blob/master/screenshot.png?raw=true)
 
 Displays the current balance of a Bitcoin address as well as all transactions the address has been involved in.
 Input/Output addresses can be clicked to inspect them. Instructions for running the application are below.
