@@ -1,3 +1,9 @@
+# Blockchain.info Project
+![screenshot](https://raw.githubusercontent.com/stephenmac7/bc-projet/screenshot.png)
+
+Displays the current balance of a Bitcoin address as well as all transactions the address has been involved in.
+Input/Output addresses can be clicked to inspect them. Instructions for running the application are below.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
